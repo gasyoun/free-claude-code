@@ -1,1 +1,1 @@
-IMPORTANT: Ensure you’ve thoroughly reviewed the [AGENTS.md](AGENTS.md) file before beginning any work.
+IMPORTANT: Ensure you’ve thoroughly reviewed the [AGENTS.md](https://github.com/gasyoun/free-claude-code/blob/main/AGENTS.md) file before beginning any work.

@@ -1,3 +1,5 @@
+_Created: 16-02-2026 · Last updated: 05-09-2026_
+
 # AGENTIC DIRECTIVE
 
 > This file is identical to CLAUDE.md. Keep them in sync.
@@ -50,3 +52,5 @@
 ## TOOLS
 
 - Prefer built-in tools (grep, read_file, etc.) over manual workflows. Check tool availability before use.
+
+_Dr. Mārcis Gasūns_

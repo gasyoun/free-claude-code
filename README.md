@@ -1,3 +1,5 @@
+_Created: 28-01-2026 · Last updated: 05-09-2026_
+
 <div align="center">
 
 # 🤖 Free Claude Code
@@ -325,7 +327,7 @@ Models use a prefix format: `provider_prefix/model/name`. An invalid prefix caus
 <details>
 <summary><b>NVIDIA NIM models</b></summary>
 
-Popular models (full list in [`nvidia_nim_models.json`](nvidia_nim_models.json)):
+Popular models (full list in [`nvidia_nim_models.json`](https://github.com/gasyoun/free-claude-code/blob/main/nvidia_nim_models.json)):
 
 - `nvidia_nim/minimaxai/minimax-m2.5`
 - `nvidia_nim/qwen/qwen3.5-397b-a17b`
@@ -606,3 +608,5 @@ uv run ruff format && uv run ruff check && uv run ty check && uv run pytest
 MIT License. See [LICENSE](LICENSE) for details.
 
 Built with [FastAPI](https://fastapi.tiangolo.com/), [OpenAI Python SDK](https://github.com/openai/openai-python), [discord.py](https://github.com/Rapptz/discord.py), and [python-telegram-bot](https://python-telegram-bot.org/).
+
+_Dr. Mārcis Gasūns_
